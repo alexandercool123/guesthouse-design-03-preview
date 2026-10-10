@@ -1,0 +1,11 @@
+.env
+.env.*
+secrets/
+backups/
+*.sql
+*.pem
+*.key
+*.tar
+*.tar.gz
+*.zip
+.DS_Store
