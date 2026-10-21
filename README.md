@@ -9,7 +9,7 @@ Use the property selector at the top of any page to switch between the two.
 
 **Roskilde, design 04 "Sunset"** — [roskilde-sunset/index.html](roskilde-sunset/index.html): a modernised
 version of the original roskildebnb.dk design that keeps the original page text verbatim (English and
-Danish side by side, as on the current site). The "Design" bar at the top of every Roskilde page
+Danish side by side, as on the current site). The "Design" bar at the top of every page (Køge too; 04/05 exist only for Roskilde)
 switches between v3, 04 and 05 on the same topic. Fonts for 04: [Strait](https://fonts.google.com/specimen/Strait)
 and [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4), licences alongside.
 Map and videos on 04 load from Google/YouTube only when clicked.
