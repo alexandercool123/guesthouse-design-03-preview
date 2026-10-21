@@ -6,6 +6,13 @@ Static design preview for owner review.
 - [Roskilde B&B — dansk](roskilde/da/index.html) · [English](roskilde/index.html)
 
 Use the property selector at the top of any page to switch between the two.
+
+**Roskilde, design 04 "Sunset"** — [roskilde-sunset/index.html](roskilde-sunset/index.html): a modernised
+version of the original roskildebnb.dk design that keeps the original page text verbatim (English and
+Danish side by side, as on the current site). The "Design" bar at the top of every Roskilde page
+switches between v3 and 04 on the same topic. Fonts for 04: [Strait](https://fonts.google.com/specimen/Strait)
+and [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4), licences alongside.
+Map and videos on 04 load from Google/YouTube only when clicked.
 Both have nine pages in Danish and English. The website runs without a backend or build step.
 
 Booking controls are intentionally disabled. This is a design preview, not a booking service.
